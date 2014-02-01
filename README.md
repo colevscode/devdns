@@ -13,7 +13,7 @@ By default devdns maps the `dev` TLD to `127.0.0.1`. This is probably all most p
 
 You need to run it as root because it uses port 53, the standard DNS port. Also you'll want to add localhost (127.0.0.1) to the top of your DNS server list. I recommend adding google's DNS addresses (8.8.8.8 and 8.8.4.4) as backup servers.
 
-!()[http://raw.github.com/colevscode/devdns/master/dnsconfig.png]
+![](http://raw.github.com/colevscode/devdns/master/dnsconfig.png)
 
 ## Credits
 
