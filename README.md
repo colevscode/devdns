@@ -17,4 +17,4 @@ You need to run it as root because it uses port 53, the standard DNS port. Also 
 
 ## Credits
 
-Much of this code was adopted from [minidns](https://code.google.com/p/minidns/) which itself borrowed heavily from [Frederic's recipe](http://code.activestate.com/recipes/491264-mini-fake-dns-server/).
+Much of this code was adopted from [minidns](https://code.google.com/p/minidns/) which itself borrowed heavily from [Francisco's recipe](http://code.activestate.com/recipes/491264-mini-fake-dns-server/).
